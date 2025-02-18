@@ -1,4 +1,4 @@
-﻿# Master-Javscript
+﻿# Master-Javascript
 JavaScript Journey: From Scratch to Advanced 
 
 Welcome to the ultimate JavaScript learning repository! This open-source project is designed to take you from absolute basics to advanced-level mastery with clear explanations, real-world examples, and best practices. Whether you're just starting out or sharpening your skills, this repo has got you covered! 
