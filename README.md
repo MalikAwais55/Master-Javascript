@@ -16,6 +16,7 @@ Welcome to the ultimate JavaScript learning repository! This open-source project
 📌 What is JavaScript?
 
 JavaScript is a high-level, object-oriented, multi-paradigm programming language.
+JavaScript is a asynchronous single threaded language 
 It is used to make websites interactive and dynamic. It runs in the browser and allows you to create things like:
 
 🔹 Animations & Effects (e.g., sliders, pop-ups)
